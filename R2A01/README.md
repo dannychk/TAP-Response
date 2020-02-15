@@ -1,4 +1,5 @@
 ## Response to comment 1:
+When the pair of notches on the patch is removed, the antenna structure and corresponding S11 and AR results are shown in the following figure. The CP at the lower band disappears and it has transferred into LP.
 
 <div align=center><img src="https://github.com/dannychk/TAP-Response/blob/master/Lower_LP_RD.png" width="300" height="250" /></div>
 
